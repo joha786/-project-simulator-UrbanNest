@@ -1,7 +1,7 @@
 # Implemented Features
-## T-5 : Implement report system
-This task involves a report system for users.
-**Status: Implemented**
+## T-4 : FR-Add Property
+As an owner, I want to list my property so renters can find it
+**Status: Implemented
 
 ## T-1: Implement User Registration Page
 This task involves creating a Registration form component with Name,Email,Phone, password, Role, Email, NID Card fields, including validation and error handling.
@@ -9,5 +9,5 @@ This task involves creating a Registration form component with Name,Email,Phone,
 
 ## T-2: Implement User Login Page
 
-"## T-3: Implement Landing Page" 
+## T-3: Implement Landing Page
 "" 
