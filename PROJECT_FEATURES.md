@@ -1,6 +1,6 @@
 # Implemented Features
-## T-4 : FR-Add Property
-As an owner, I want to list my property so renters can find it
+## T-4 : implement Add Property
+This task invloves creating a Title, Rent, Location text along with link, Size, Description, Attach Image Button, Post Button
 **Status: Implemented
 
 ## T-1: Implement User Registration Page
